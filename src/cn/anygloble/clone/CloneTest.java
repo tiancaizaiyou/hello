@@ -9,5 +9,6 @@ public class CloneTest {
         stu2.setAge(14);
         System.out.println(stu1);
         System.out.println(stu2);
+        System.out.println("测试提交");
     }
 }
