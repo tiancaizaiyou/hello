@@ -8,5 +8,6 @@ public class ObserverTest {
         subject.addMessage(observer1);
         subject.addMessage(observer2);
         subject.notifyMessage("sss");
+        System.out.println("ssss");
     }
 }
